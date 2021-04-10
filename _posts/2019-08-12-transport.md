@@ -15,6 +15,7 @@ A study of the State of Data in Ground Transportation of Freight
 ## Abstract
 The ground transportation industry has been collecting data for safety and inventory for over 20 years, paving the way for big data collection strategies. Companies tracked their trucks with rooftop Global Positioning Systems (GPS) long before the technology was available on cell phones.  Transporters have been tracking locations of freight with Radio-Frequency Identification (RFID) tags to manage inventories.
 The transportation community already has established collections of data. The question posed is what else can they do with all that data? How can they optimize costs by reviewing data elements they already have and previously thought were useless?  The focus has turned from inventory tracking to data-driven decision making.  
+<br>
 This poster identifies historic transportation data sources, as well as publicly-available data sources, and points out the benefits of consolidating the data.  
 
 
