@@ -9,7 +9,7 @@ excerpt: "Statistics, Crime, Cincinnati"
 mathjax: "true"
 ---
 
-# Cincinnati Statistical
+# Cincinnati Crime Statistics
 A Statistical Analysis 
 
 <a href="https://github.com/amodavis/Cincinnati_Stats">Project Link</a>
