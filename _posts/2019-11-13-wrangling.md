@@ -15,4 +15,4 @@ Re-usable Python scripts scripts using various methods to wrangle data; Includes
 
 <br>
 <br>
-Image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=37585">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=37585">Pixabay</a>
+Photo by Brett Sayles from Pexels
