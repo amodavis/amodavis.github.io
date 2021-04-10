@@ -9,7 +9,6 @@ excerpt: "Data Wrangling, Python, Web Scraping"
 mathjax: "true"
 ---
 
-# Data Wrangling Python scripts 
 Re-usable Python scripts scripts using various methods to wrangle data; Includes working with PDFs, APIs, web scraping, web crawling.
 
 <a href="https://github.com/amodavis/Data_Wrangling">Project Link</a>
