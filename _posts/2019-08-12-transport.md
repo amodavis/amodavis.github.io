@@ -1,6 +1,6 @@
 ---
-title: "Data Project"
-date: 2019-08-12
+title: "Data Discovery Project"
+date: 2019-08-08
 tags: [data, transportation]
 header:
   image: "/images/davis/transport.png"
