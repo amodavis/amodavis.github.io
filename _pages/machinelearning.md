@@ -4,5 +4,5 @@ permalink: /data-wrangling/
 title: "Data Science Projects"
 author_profile: true
 header:
-  image: "/images/ai_banner.png"
+  image: "/images/davis/ai_banner.png"
 ---
