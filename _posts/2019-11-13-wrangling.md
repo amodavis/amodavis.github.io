@@ -9,7 +9,7 @@ excerpt: "Python, Web Scraping, Web Spider, Data Conversion"
 mathjax: "true"
 ---
 
-Re-usable Python scripts scripts using various methods to wrangle data; Includes working with PDFs, APIs, web scraping, web crawling.
+Re-usable Python scripts using various methods to wrangle data; Includes working with PDFs, APIs, web scraping, web crawling.
 
 <a href="https://github.com/amodavis/Data_Wrangling">Project Link</a>
 
