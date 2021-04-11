@@ -24,4 +24,5 @@ This poster identifies historic transportation data sources, as well as publicly
 
 <br>
 <br>
-Image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=37585">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=37585">Pixabay</a>
+Image by <a href="https://pixabay.com/users/schwoaze-4023294/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3392100">Schwoaze</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3392100">Pixabay</a>
+
