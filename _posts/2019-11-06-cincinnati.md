@@ -3,7 +3,7 @@ title: "Statistics Project"
 date: 2019-11-06
 tags: [statistics, crime, cincinnati]
 header:
-  image: "/images/davis/city-skyline.png"
+  image: "/images/davis/cincinnati.png"
   
 excerpt: "Statistics, Crime, Cincinnati"
 mathjax: "true"
