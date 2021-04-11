@@ -5,7 +5,7 @@ tags: [data wrangling, python, api, web scraping]
 header:
   image: "/images/davis/wrangler.png"
   
-excerpt: "Data Wrangling, Python, Web Scraping"
+excerpt: "Python, Web Scraping, Web Spider, Data Conversion"
 mathjax: "true"
 ---
 
