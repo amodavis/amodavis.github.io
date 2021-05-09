@@ -39,10 +39,16 @@ Implements a ConvNet model that classifies images in the CIFAR10 small images da
 <br>
 <a href="https://github.com/amodavis/Deep_Learning/blob/main/Image_Classification_ConvNet_CIFAR10.pdf">Click here for source code</a>
 
-### Resnet with Keras - Color Images
-Perform images classification using Keras’ ResNet50 model.
+### Resnet with Keras
+Performs images classification using Keras’ ResNet50 model.
 <br>
 <a href="https://github.com/amodavis/Deep_Learning/blob/main/Image_Classification_ResNet50.pdf">Click here for source code</a>
+
+## Recurrent Neural Networks
+### Text Processing
+Transforms text input into tokens and convert those tokens into numeric vectors using one-hot encoding and feature hashing.  Builds basic text-processing models using recurrent neural networks (RNN).  Demonstrates how word embeddings such as Word2Vec can help improve the performance of text-processing models.
+<br>
+<a href="https://github.com/amodavis/Deep_Learning/blob/main/Text_Processing_RNN.pdf">Click here for source code</a>
 
 ## References:
 These files contain code from Deep Learning with Python, www.manning.com/books/deep-learning-with-python, Copyright 2018 Francois Chollet
