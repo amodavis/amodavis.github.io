@@ -12,20 +12,37 @@ mathjax: "true"
 # Keras Use Cases
 Various Python scripts using Keras artificial neural networks to solve deep learning problems, such as Image Classification and LSTM Text Generation.
 
-## Binary Classification with Keras
+## Neural Networks
+### Binary Classification with Keras
 Implements a movie review classifier using the IMDB dataset that comes packaged with Keras.
 <br>
 <a href="https://github.com/amodavis/Deep_Learning/blob/main/Binary_Classification_Example.pdf">Click here for source code</a>
 
-## Multi-class Classification with Keras
+### Multi-class Classification with Keras
 Implements a news classifier using the Reuters dataset that comes packaged with Keras.
 <br>
 <a href="https://github.com/amodavis/Deep_Learning/blob/main/Multi-Classification_Example.pdf">Click here for source code</a>
 
-## Regression with Keras
+### Regression with Keras
 Implements a housing price regression model using the Boston Housing Price dataset that comes packaged with Keras.
 <br>
 <a href="https://github.com/amodavis/Deep_Learning/blob/main/Regression_Example.pdf">Click here for source code</a>
+
+## Image Classification
+### Convnet with Keras - Digit Images
+Implements a ConvNet model that classifies images in the MNIST digit dataset that comes packaged with Keras.
+<br>
+<a href="https://github.com/amodavis/Deep_Learning/blob/main/Image_Classification_ConvNet_MNIST.pdf">Click here for source code</a>
+
+### Convnet with Keras - Color Images
+Implements a ConvNet model that classifies images in the CIFAR10 small images dataset that comes packaged with Keras.  This is a dataset of 50,000 32x32 color training images and 10,000 test images, labeled over 10 categories.
+<br>
+<a href="https://github.com/amodavis/Deep_Learning/blob/main/Image_Classification_ConvNet_CIFAR10.pdf">Click here for source code</a>
+
+### Resnet with Keras - Color Images
+Perform images classification using Keras’ ResNet50 model.
+<br>
+<a href="https://github.com/amodavis/Deep_Learning/blob/main/Image_Classification_ResNet50.pdf">Click here for source code</a>
 
 ## References:
 These files contain code from Deep Learning with Python, www.manning.com/books/deep-learning-with-python, Copyright 2018 Francois Chollet
