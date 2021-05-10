@@ -29,7 +29,7 @@ PDI (Police Data Initiative) Crime Incidents, City of Cincinnati.  Incidents are
 <a href="https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Crime-Incidents/k59e-2pvf">Data can be found here</a>
 <br>
 <br>
-<a href="https://github.com/amodavis/Cincinnati_Stats/blob/main/Cincinnati_Crime_Statistic_Paper.pdf">Click here to read on for Methodology</a>
+<a href="https://github.com/amodavis/Cincinnati_Stats/blob/main/Cincinnati_Crime_Statistic_Paper.pdf">Click here to read on for more methodology</a>
 <br>
 <a href="https://github.com/amodavis/Cincinnati_Stats/blob/main/Cincinnati_Crime_Statistic_Markdown%20Output%20.pdf">Click here for Results</a>
 <br>
