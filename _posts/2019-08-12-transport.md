@@ -17,8 +17,8 @@ The ground transportation industry has been collecting data for safety and inven
 The transportation community already has established collections of data. The question posed is what else can they do with all that data? How can they optimize costs by reviewing data elements they already have and previously thought were useless?  The focus has turned from inventory tracking to data-driven decision making.  
 <br>
 <a href="https://github.com/amodavis/Data_in_Transportation/blob/main/Transportation_Data_Extended_Abstract.pdf">Click here to read extended abstract</a>
-<br>
-<br>
+
+## Poster
 This poster identifies historic transportation data sources, as well as publicly-available data sources, and points out the benefits of consolidating the data.  
 <br>
 <a href="https://github.com/amodavis/Data_in_Transportation/blob/main/Transportation_Data_Conference_Poster.pdf">Project Link</a>
