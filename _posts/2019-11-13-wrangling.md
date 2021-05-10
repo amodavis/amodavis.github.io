@@ -5,12 +5,12 @@ tags: [data wrangling, python, api, web scraping]
 header:
   image: "/images/davis/wrangler.png"
   
-excerpt: "Python, Web Scraping, Web Spider, Data Conversion"
+excerpt: "Python, Web Scraping, Web Spider"
 mathjax: "true"
 ---
 
 # Data wrangling with Python
-Re-usable Python scripts using various methods to wrangle data; Includes working with PDFs, APIs, web scraping, web crawling.
+Re-usable Python scripts using various methods to wrangle data; Includes working with APIs, web scraping, web crawling.
 
 ## Web Scraping
 Open and get response from a web page.  Use Beautiful Soup to scrape info from Take Action articles.  Interact with web page using Selenium.
