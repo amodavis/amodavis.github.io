@@ -29,9 +29,9 @@ Build a web spider using scrapy.
 
 ## API Calls
 ### Twitter API Pull
-Build a web spider using scrapy.
+Create a Twitter API Key and Access Token.  Execute multiple queries at a time from Twitter’s REST API.  Do a data pull from Twitter’s Streaming API.
 <br>
-<a href="https://github.com/amodavis/Data_Wrangling/blob/master/Web%20Spider.py">Click here for Python script</a>
+<a href="https://github.com/amodavis/Data_Wrangling/blob/master/Twitter%20API%20Pull.py">Click here for Python script</a>
 
 ### College Scorecard
 Build a web spider using scrapy.
