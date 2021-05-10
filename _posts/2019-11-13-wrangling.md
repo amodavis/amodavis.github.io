@@ -9,7 +9,7 @@ excerpt: "Python, Web Scraping, Web Spider"
 mathjax: "true"
 ---
 
-# Data wrangling with Python
+# Wrangling with Python
 Re-usable Python scripts using various methods to wrangle data; Includes working with APIs, web scraping, web crawling.
 
 ## Web Scraping
