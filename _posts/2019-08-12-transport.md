@@ -21,7 +21,7 @@ The transportation community already has established collections of data. The qu
 ## Poster
 This poster identifies historic transportation data sources, as well as publicly-available data sources, and points out the benefits of consolidating the data.  
 <br>
-<a href="https://github.com/amodavis/Data_in_Transportation/blob/main/Transportation_Data_Conference_Poster.pdf">Project Link</a>
+<a href="https://github.com/amodavis/Data_in_Transportation/blob/main/Transportation_Data_Conference_Poster.pdf">Poster Link</a>
 <br>
 <br>
 Image by <a href="https://pixabay.com/users/schwoaze-4023294/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3392100">Schwoaze</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3392100">Pixabay</a>
