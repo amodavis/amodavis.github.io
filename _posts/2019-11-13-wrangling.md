@@ -12,11 +12,6 @@ mathjax: "true"
 # Data wrangling with Python
 Re-usable Python scripts using various methods to wrangle data; Includes working with PDFs, APIs, web scraping, web crawling.
 
-## PDF Conversion
-Working with PDFs and Setting up a database.  Convert PDF into readable format.  Setup a local database and load in a dataset.
-<br>
-<a href="https://github.com/amodavis/Data_Wrangling/blob/master/Converting%20PDFs%20-%20DB%20Load.py">Click here for Python script</a>
-
 ## Web Scraping
 Open and get response from a web page.  Use Beautiful Soup to scrape info from Take Action articles.  Interact with web page using Selenium.
 <br>
@@ -34,13 +29,13 @@ Create a Twitter API Key and Access Token.  Execute multiple queries at a time f
 <a href="https://github.com/amodavis/Data_Wrangling/blob/master/Twitter%20API%20Pull.py">Click here for Python script</a>
 
 ### College Scorecard
-Build a web spider using scrapy.
+Retrieves college scorecard data from Data.gov API (https://collegescorecard.ed.gov).  Parses JSON response into Python dictionary.  Exports API response in readable format to file.
 <br>
-<a href="https://github.com/amodavis/Data_Wrangling/blob/master/Web%20Spider.py">Click here for Python script</a>
+<a href="https://github.com/amodavis/Data_Wrangling/blob/master/Project%20-%20College%20Scorecard%20API.py">Click here for Python script</a>
 
 <br>
 <br>
-<a href="https://github.com/amodavis/Data_Wrangling">Click here to access Github repository</a>
+<a href="https://github.com/amodavis/Data_Wrangling">Click here to access additional wrangling scripts</a>
 
 <br>
 <br>
