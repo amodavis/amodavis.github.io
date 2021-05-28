@@ -5,7 +5,7 @@ header:
   image: "/images/davis/ai_banner.png"
 ---
 
-Email me at <a href="mailto:amodavis@my365.bellevue.edu">.</a>
+Email me at <a href="mailto:amodavis@my365.bellevue.edu">amodavis@my365.bellevue.edu.</a>
 <br>
 Message me on <a href="https://www.linkedin.com/in/amie-davis-3169a7b3">Linked In.</a>
 <br>
