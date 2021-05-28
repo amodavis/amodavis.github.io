@@ -2,7 +2,7 @@
 main:
   - title: "Data Science Projects"
     url: /data-science/
-  - title: "About"
+  - title: "About Me"
     url: /about/
   - title: "Contact"
     url: /contact/
