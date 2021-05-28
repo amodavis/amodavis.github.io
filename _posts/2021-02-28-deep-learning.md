@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Showcase"
 date: 2021-02-28
-tags: [data science, machine learning, deep learning, keras, python]
+#tags: [data science, machine learning, deep learning, keras, python]
 header:
   image: "/images/davis/networks.png"
   
