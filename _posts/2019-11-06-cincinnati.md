@@ -1,7 +1,7 @@
 ---
 title: "Statistics Project"
 date: 2019-11-06
-tags: [r, statistics, crime, cincinnati]
+#tags: [r, statistics, crime, cincinnati]
 header:
   image: "/images/davis/cincinnati.png"
   
