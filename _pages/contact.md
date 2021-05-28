@@ -9,7 +9,7 @@ Email me at amodavis@bellevue.edu.
 <br>
 <br>
 <br>
-Linked In <a href="https:www.linkedin.com/in/amie-davis-3169a7b3">Profile
+Linked In <a href="https://www.linkedin.com/in/amie-davis-3169a7b3">Profile</a>
  <br>
 <br>
 <br>
