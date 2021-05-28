@@ -1,7 +1,7 @@
 ---
 title: "Data Wrangling Showcase"
 date: 2019-11-13
-tags: [data wrangling, python, api, web scraping]
+#tags: [data wrangling, python, api, web scraping]
 header:
   image: "/images/davis/wrangler.png"
   
