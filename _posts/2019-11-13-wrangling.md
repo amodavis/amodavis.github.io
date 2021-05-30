@@ -4,6 +4,7 @@ date: 2019-11-13
 #tags: [data wrangling, python, api, web scraping]
 header:
   image: "/images/davis/wrangler.png"
+  caption: "Photo by Brett Sayles from Pexels"
   
 excerpt: "Python, Web Scraping, Web Spider"
 mathjax: "true"
@@ -36,8 +37,3 @@ Retrieves college scorecard data from Data.gov API (https://collegescorecard.ed.
 <br>
 <br>
 <a href="https://github.com/amodavis/Data_Wrangling">Click here to access additional wrangling scripts</a>
-
-<br>
-<br>
-Photo by Brett Sayles from 
-<a href="https://www.pexels.com/photo/people-riding-on-there-perspective-horse-in-farm-1069731/">Pexels</a>
