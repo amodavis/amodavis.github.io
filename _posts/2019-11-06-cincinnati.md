@@ -4,6 +4,7 @@ date: 2019-11-06
 #tags: [r, statistics, crime, cincinnati]
 header:
   image: "/images/davis/cincinnati.png"
+  caption: "Image by David Mark from Pixabay"
   
 excerpt: "R, Statistics, Crime, Cincinnati"
 mathjax: "true"
@@ -34,7 +35,3 @@ PDI (Police Data Initiative) Crime Incidents, City of Cincinnati.  Incidents are
 <a href="https://github.com/amodavis/Cincinnati_Stats/blob/main/Cincinnati_Crime_Statistic_Markdown%20Output%20.pdf">Click here for Results</a>
 <br>
 <a href="https://github.com/amodavis/Cincinnati_Stats">Click here to access Source Code</a>
-
-<br>
-<br>
-Image by David Mark from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=77725">Pixabay</a>
